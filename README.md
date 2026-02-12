@@ -63,7 +63,7 @@ print(validate_password("Secure123!"))  # True
 print(validate_password("weak"))        # False
 
 Running Tests
-pytest
+python3 -m pytest
 
 Security Scan
 
